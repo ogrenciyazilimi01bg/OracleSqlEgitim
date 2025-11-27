@@ -1,1 +1,2 @@
-
+-- Tüm 
+SELECT * FROM HR.EMPLOYEES;
